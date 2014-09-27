@@ -4,7 +4,7 @@ Purpose
 Report on the content tree for what items are missing language versions, have explicit content, or having content falling back.
 
 Compatibility
-The codebase is compatible with Sitecore 6.6.x releases.  It should work with earlier versions though.
+The codebase is compatible with Sitecore 6.6.x releases and at least through Sitecore 7.2.x.  It should work with earlier versions though.
 This assumes you are using the latest version of the Partial Language Fallback Module
 http://marketplace.sitecore.net/en/Modules/Language_Fallback.aspx
 
@@ -26,4 +26,4 @@ Testing
 2. Set a path to a content section of sitecore
 3. run the report on different variations including Items with Language Version, Without Version, With Explicit Content, Without Content
 
-Review the blog series about Partial Language Fallback on Sitecore, link TBD
+Review the blog series about Partial Language Fallback on Sitecore, http://www.sitecore.net/en-gb/Learn/Blogs/Technical-Blogs/Elizabeth-Spranzani.aspx
